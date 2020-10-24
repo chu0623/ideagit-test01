@@ -12,5 +12,10 @@ public class HelloWorld {
 
     public static void b(Integer b,Integer c,Integer a){
         System.out.println(c+"-"+b+"-"+a);
+        System.out.println(c+"-"+b+"-"+a);
+        System.out.println(c+"-"+b+"-"+a);
+        System.out.println(c+"-"+b+"-"+a);
+        System.out.println(c+"-"+b+"-"+a);
+        System.out.println(c+"-"+b+"-"+a);
     }
 }
