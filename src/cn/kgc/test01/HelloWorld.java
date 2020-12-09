@@ -23,5 +23,6 @@ public class HelloWorld {
         //asdfsadfasdfasdf
         System.out.println("合并练习");
         System.out.println("合并练习二");
+        System.out.println("hebinglianxi");
     }
 }
