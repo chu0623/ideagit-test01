@@ -25,5 +25,6 @@ public class HelloWorld {
         System.out.println("合并练习二");
         System.out.println("hebinglianxi");
         System.out.println("主分支提交");
+        System.out.println("主分支提交两次");
     }
 }

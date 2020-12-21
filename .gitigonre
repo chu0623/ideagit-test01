@@ -3,5 +3,6 @@
 target
 *.class
 jdbc.properties
+db.properties
 *.jar
 *.war
